@@ -3,7 +3,7 @@
 I’m a data scientist based in Halifax, Nova Scotia, working in the ocean technology sector. I specialize in data analysis and fusion, helping to close the knowledge gap at sea in my current role.
 
 ## 🌊 About Me
-- 🚢 Currently working at **[OceanSync](www.oceansync.com)** as a junior data scientist.
+- 🚢 Currently working at **[OceanSync](www.oceansync.com)** as a Data Scientist.
 - 📊 Passionate about **data analysis** and **data fusion**.
 - 💻 Languages: `.py`, `.tsc`, `.sql`, `.qmd`, with experience in **Google Cloud** and **GitLab**.
 - 🌍 Interested in leveraging technology for improved **situational awareness** and **decision-making** in maritime contexts.
